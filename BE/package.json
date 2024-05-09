@@ -1,7 +1,7 @@
 {
   "name": "be",
   "version": "1.0.0",
-  "homepage": "https://github.com/tranluong460/datn/tree/main/BE",
+  "homepage": "https://github.com/phucquyet1202/datn/tree/master/BE",
   "description": "",
   "type": "module",
   "main": "index.js",
